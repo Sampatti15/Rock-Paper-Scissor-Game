@@ -5,14 +5,6 @@ Play against the computer and enjoy a simple, clean, and responsive user interfa
 
 ---
 
-##  Features
-- Play against the computer
-- Real-time result display
-- Score tracking for user and computer
-- Clean and beginner-friendly UI
-
----
-
 ## 🛠️ Technologies Used
 - **HTML** – Structure of the game
 - **CSS** – Styling and layout
