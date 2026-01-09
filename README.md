@@ -21,7 +21,8 @@ Play against the computer and enjoy a simple, clean, and responsive user interfa
 ---
 
 ## 📸 Preview
-_(Add screenshots or a screen recording here if you want)_
+<img width="1919" height="909" alt="Screenshot" src="https://github.com/user-attachments/assets/4a2a6b24-deb8-40df-9acf-8a2a2d9bf5a4" />
+
 
 ---
 
